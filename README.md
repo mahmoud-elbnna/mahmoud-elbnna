@@ -47,9 +47,9 @@ class Profile:
 
         self.experience = [
             "Khalda Petroleum Company",
-            "Egypt Copper Works",
+            "Egypt Copper Works company",
             "Extracted Oils and Derivatives Company",
-            "ASCOM"
+            "Alexandria Oil & Soap Company (A.O.S.CO)"
         ]
 
     def current_goals(self):
