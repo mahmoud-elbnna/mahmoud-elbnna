@@ -35,7 +35,7 @@
 
 class Profile:
     def __init__(self):
-        self.name = "Mahmoud Alaa Eldin Mohamed El Banna"
+        self.name = "Mahmoud Alaa Eldin Mohamed Elbnna"
         self.education = "Computer & Communications Engineering"
         self.location = "Alexandria, Egypt"
         
