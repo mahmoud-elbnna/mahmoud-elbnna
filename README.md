@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Mahmoud+Elbnna!;" alt="Typing SVG" /> <br>
 
-<img src="https://media.giphy.com/media/qgQUggCGvnk5CwrcmE/giphy.gif" alt="Workspace" width="40%"/><br> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Workspace" width="40%"/><br> 
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to :   </summary> </strong></p>
@@ -25,9 +25,9 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 
 </div>
 
@@ -43,20 +43,14 @@ class Profile:
         self.interests = [
             "Data Engineering", 
             "Cloud Computing", 
-            "Autonomous Robotics (ROS 2 Jazzy)"
-        ]
-        
-        self.hardware_skills = [
-            "Embedded Systems (STM32F401CC)",
-            "PCB Design & Fabrication",
-            "Sensor Fusion",
-            "Motor Drivers (L298N, BTS7960)"
+            "Database Management"
         ]
 
         self.experience = [
             "Khalda Petroleum Company",
-            "El Nahhas",
-            "Extracted Oils and Derivatives Company"
+            "Egypt Copper Works",
+            "Extracted Oils and Derivatives Company",
+            "ASCOM"
         ]
 
     def current_goals(self):
