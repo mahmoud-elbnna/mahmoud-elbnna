@@ -1,13 +1,14 @@
 <div align="center">
 
-<a href="https://github.com/mahmoud-elbnna">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello,+I'm+Mahmoud!+👋;Aspiring+Data+Engineer;Cloud+Computing+Enthusiast" alt="Typing Greeting" />
-</a>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Workspace" width="40%"/><br> 
+<h1>Hello, I'm Mahmoud Alaa Eldin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p><strong>Aspiring Data Engineer | Python & SQL Developer | Cloud Enthusiast</strong></p>
+
+<!-- Reliable generic developer workspace animation -->
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Workspace" width="40%"/><br> 
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to :   </summary> </strong></p>
+<!-- Replace YOUR_SPOTIFY_ID below with your actual Spotify ID -->
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novathem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" />
 </details>
 
